@@ -12,7 +12,6 @@
 
 import { useState } from "react";
 import { validateForm, passwordStrength } from "formcheck-js";
-import "./App.css";
 
 // Validation schema
 const schema = {
