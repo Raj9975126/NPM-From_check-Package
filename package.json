@@ -39,15 +39,19 @@
     "javascript",
     "lightweight"
   ],
-  "author": "Your Name <your-email@example.com>",
+  "author": {
+    "name": "Raj Kumar",
+    "email": "raj@gmail.com",
+    "url": "https://github.com/Raj9975126"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/formcheck-js.git"
+    "url": "https://github.com/Raj9975126/NPM-From_check-Package.git"
   },
-  "homepage": "https://github.com/your-username/formcheck-js#readme",
+  "homepage": "https://github.com/Raj9975126/NPM-From_check-Package#readme",
   "bugs": {
-    "url": "https://github.com/your-username/formcheck-js/issues"
+    "url": "https://github.com/Raj9975126/NPM-From_check-Package/issues"
   },
   "engines": {
     "node": ">=14.0.0"
