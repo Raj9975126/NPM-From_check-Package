@@ -1,0 +1,7 @@
+src/
+test/
+scripts/
+.gitignore
+.github/
+CHANGELOG.md
+*.test.js
